@@ -16,11 +16,14 @@
 | CMS | ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)  |
 | SaaS| ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) |
 
----
-|---|---|
+## 🔨 Projects
 
-
----
+| Name Project | Description | Website |
+|---|---|---|
+| Jeune Chambre Economique en Ardenne | Website for JCEA organization in Ardenne | [jceardenne.fr](https://web.archive.org/web/20250124015333/https://jceardenne.fr/) |
+| La Maison des Conseils Citoyens | Website for Neigboords | [lamaisondesconseilscitoyens.fr](https://web.archive.org/web/20221124165303/https://lamaisondesconseilscitoyens.fr/) |
+| Ante Alice | Website for an Rock Band From Toulouse | [antealice.com](https://web.archive.org/web/20241007020635/https://antealice.com/)|
+| Parti Socialiste Charleville Mézières | Website for Political Local Party | [pscarolo.fr](https://pscarolo.fr/)|
 
 ## 🧭 Other Fun Facts
 
