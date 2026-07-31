@@ -43,7 +43,7 @@ If you are looking in my repository, you can find Fork. It's normal; I fork to n
 
 ## 📬 Contact
 
-* 🌐 [zeitouncode.fr](https://zeitouncode.fr)
+* 🌐 [zeimacode](https://zeimacode.com)
 * 💼 [LinkedIn](https://www.linkedin.com/in/maximilien-thiry-70713b3a1/)
 * 🐘 [Mastodon](https://piaille.fr/deck/@thirymaximilien)
 * 📧 [Mail Private](mailto:maximilien.thiry@protonmail.com)
