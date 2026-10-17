@@ -103,6 +103,7 @@ If you reuse my code, please respect each project's license and preserve any req
 🌐 **Website:** [zeimacode.com](https://zeimacode.com)
 
 💻 **GitHub:** [github.com/zeima08](https://github.com/zeima08)
+
 🌐 **Others website** [zeimalinks](https://zeimalinks.vercel.app)
 
 I'm open to discussing freelance opportunities, web projects and collaborations.
